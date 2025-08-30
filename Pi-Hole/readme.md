@@ -1,4 +1,4 @@
-# **Project Title**  
+# **Creating a Network Wide Ad Blocker using Pi-Hole**  
 **Date**: *08-30-25 - *  
 **Technologies Used**: *Docker, Pi-Hole*  
 
@@ -82,3 +82,4 @@ _Where do you want to take this project next, if at all?_
 - *Any planned updates, features, or improvements?*
 
 ---
+
